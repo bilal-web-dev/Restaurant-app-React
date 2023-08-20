@@ -1,0 +1,99 @@
+.App {
+  text-align: center;
+}
+
+.data-row {
+  margin: 10px;
+  background-color: aliceblue;
+  padding: 20px;
+  font-size: large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.main-div {
+  text-align: center;
+}
+
+.main-heading {
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+  background-color: aliceblue;
+  color: black;
+  font-size: xx-large;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.img-container {
+  background-image: url("./bg.jpg");
+  background-size: 100%; /* Adjust how the image covers the container */
+  background-position: center; /* Center the image */
+  /* Other styles like padding, color, etc. */
+
+  background-repeat: no-repeat;
+  height: 700px;
+}
+.text-container {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  text-align: center;
+  font-family: "Preahvihear", sans-serif;
+  font-size: 70px;
+}
+
+.text-container:hover {
+  color: rgb(0, 102, 255);
+}
+
+.nav-link:hover {
+  background-color: aliceblue;
+  border-radius: 5px;
+  font-size: large;
+}
+
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 50px;
+  background-color: rgb(229, 237, 246);
+
+  padding: 10px;
+  height: 1200px;
+  border-radius: 10px;
+}
+
+.about {
+  font-size: 45px;
+  display: flex;
+  text-align: center;
+  height: 400px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Borel", cursive;
+}
+
+.features {
+  /* width: calc(33.33% - 10px); */
+  display: flex;
+  align-items: center;
+  width: 18%;
+  margin: 70px;
+  background-color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  font-family: "Preahvihear", sans-serif;
+  border-radius: 10px;
+  height: 450px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.features-text {
+  margin: 40px;
+  font-size: 17px;
+}

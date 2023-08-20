@@ -1,0 +1,118 @@
+{
+  "login": [
+    {
+      "name": "bilal",
+      "password": "123"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 5,
+      "name": "The Rustic Grill",
+      "location": "Austin, TX",
+      "rating": "4.6"
+    },
+    {
+      "id": 6,
+      "name": "La Petite Boulangerie",
+      "location": "Paris, France",
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "name": "Mama's Pasta House",
+      "rating": 4.6,
+      "location": "Rome, Italy"
+    },
+    {
+      "id": 8,
+      "name": "Dragon Wok",
+      "rating": 4.1,
+      "location": "Beijing, China"
+    },
+    {
+      "id": 9,
+      "name": "Thai Spice",
+      "rating": 4.4,
+      "location": "Bangkok, Thailand"
+    },
+    {
+      "id": 12,
+      "name": "Chez Pierre",
+      "rating": 4.2,
+      "location": "Montreal, Canada"
+    },
+    {
+      "id": 13,
+      "name": "Steakhouse Grill",
+      "rating": 4.7,
+      "location": "Dallas, TX"
+    },
+    {
+      "id": 15,
+      "name": "Seafood Sensation",
+      "rating": 4.3,
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": 16,
+      "name": "Greek Taverna",
+      "rating": 4,
+      "location": "Athens, Greece"
+    },
+    {
+      "name": "KFC",
+      "location": "Lahore",
+      "rating": "4.0",
+      "id": 17
+    },
+    {
+      "name": "Mcdonalds",
+      "location": "Karachi",
+      "rating": "4.2",
+      "id": 18
+    },
+    {
+      "name": "HFC",
+      "location": "Hasilpur",
+      "rating": "4.7",
+      "id": 19
+    },
+    {
+      "name": "Almaida",
+      "location": "Hasilpur",
+      "rating": "3.8",
+      "id": 20
+    },
+    {
+      "name": "Wah G Wah",
+      "location": "Hasilpur",
+      "rating": "4.3",
+      "id": 21
+    },
+    {
+      "name": "Ali Shan Sajji",
+      "location": "Lahore",
+      "rating": "4.5",
+      "id": 22
+    },
+    {
+      "name": "HoliHens",
+      "location": "Izmir Town, Lahore",
+      "rating": "4.3",
+      "id": 23
+    },
+    {
+      "name": "Monal",
+      "location": "Islamabad",
+      "rating": "4.7",
+      "id": 24
+    },
+    {
+      "name": "Al Madina",
+      "location": "4.3",
+      "rating": "4.5",
+      "id": 25
+    }
+  ]
+}
