@@ -1,15 +1,15 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Home from "./Home";
-import List from "./List";
-import Create from "./Create";
-import Update from "./Update";
-import Search from "./Search";
-import Login from "./Login";
+import Home from "./components/Home";
+import List from "./components/List";
+import Create from "./components/Create";
+import Update from "./components/Update";
+import Search from "./components/Search";
+import Login from "./components/Login";
 import "./App.css";
-import NavBarMenu from "./NavBarMenu";
-import Logout from "./Logout";
-import Protect from "./Protect";
+import NavBarMenu from "./components/NavBarMenu";
+import Logout from "./components/Logout";
+import Protect from "./components/Protect";
 
 const App = () => {
   return (
