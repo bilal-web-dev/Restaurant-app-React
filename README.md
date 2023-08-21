@@ -1,12 +1,15 @@
-# Getting Started with Create React App
+In the project directory,
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# `First Install the JSON Server by entering following command`
+npm install -g json-server
 
-## Available Scripts
+## `Then Start the Json Server by entering the following command`
+json-server --watch db.json
 
-In the project directory, you can run:
+### `Then install the required packages and dependencies by`
+npm install
 
-### `npm start`
+### `Then start project by,  npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
